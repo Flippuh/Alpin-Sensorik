@@ -1,0 +1,12 @@
+Stückliste für den Testaufbau mit fertigen Devkits (Modulen)
+
+1x µC ESP32-S3-N16R8 Devkit                -> https://de.aliexpress.com/item/1005009330328373.html?spm=a2g0o.order_list.order_list_main.4.2b7d5c5fjdncHI&gatewayAdapt=glo2deu
+1x Temperatursensor TMP 102                -> https://de.aliexpress.com/item/1005006864230035.html?spm=a2g0o.order_list.order_list_main.10.2b7d5c5fjdncHI&gatewayAdapt=glo2deu
+1x GPS Modul ublox MAX-M10S                -> https://de.aliexpress.com/item/1005012798806118.html?spm=a2g0o.order_list.order_list_main.16.2b7d5c5fjdncHI&gatewayAdapt=glo2deu
+1x 6-Achsen-Beschleunigungssensor BMI270   -> https://de.aliexpress.com/item/1005012475229129.html?spm=a2g0o.order_list.order_list_main.22.2b7d5c5fjdncHI&gatewayAdapt=glo2deu
+1x µSD-Kartenleser                         -> https://de.aliexpress.com/item/1005010356630339.html?spm=a2g0o.order_list.order_list_main.28.2b7d5c5fjdncHI&gatewayAdapt=glo2deu
+1x Barometer BMP390                        -> https://de.aliexpress.com/item/1005007993273298.html?spm=a2g0o.order_list.order_list_main.34.2b7d5c5fjdncHI&gatewayAdapt=glo2deu
+1x RTC DS3231                              
+2x Taster
+1x Buzzer
+1x µSD-Karte
